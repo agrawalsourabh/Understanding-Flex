@@ -1,2 +1,2 @@
 # Understanding-Flex
-Responsive website using Flask
+Medium Blog
